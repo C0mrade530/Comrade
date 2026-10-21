@@ -12,3 +12,4 @@ node_modules/
 **/check-report.json
 **/render.log
 **/.cache/
+**/.thumbnails/
