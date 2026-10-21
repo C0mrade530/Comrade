@@ -12,7 +12,7 @@
 
 *Демонстрация сценария работы. Анимация показывает пример диалога и этапы навыка; реальный результат создаётся в вашей среде Codex или Claude.*
 
-[Скачать навык](https://github.com/C0mrade530/Comrade/raw/refs/heads/main/downloads/mini-product-creator.zip) · [Полный комплект](https://github.com/C0mrade530/Comrade/raw/refs/heads/main/downloads/Mini-Product-Creator-комплект.zip) · [Начать без установки](prompts/mini-product-creator.txt)
+[Скачать навык](https://github.com/C0mrade530/mini-product-creator-skill/raw/refs/heads/main/downloads/mini-product-creator.zip) · [Полный комплект](https://github.com/C0mrade530/mini-product-creator-skill/raw/refs/heads/main/downloads/Mini-Product-Creator-комплект.zip) · [Начать без установки](prompts/mini-product-creator.txt)
 
 ## Сначала разберётся в вашей задаче
 
