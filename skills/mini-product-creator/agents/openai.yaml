@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mini Product Creator"
+  short_description: "От идеи до мини-продукта, оплаты и выдачи"
+  default_prompt: "Используй $mini-product-creator: помоги выбрать одну задачу аудитории, создать готовый мини-продукт и довести до покупки, выдачи и запуска."

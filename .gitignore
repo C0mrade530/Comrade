@@ -1,0 +1,14 @@
+.DS_Store
+node_modules/
+.env
+.env.*
+!.env.example
+.hyperframes/
+.media/
+**/.hyperframes/
+**/.media/
+**/node_modules/
+**/qa/
+**/check-report.json
+**/render.log
+**/.cache/

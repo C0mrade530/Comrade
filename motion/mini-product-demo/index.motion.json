@@ -1,0 +1,10 @@
+{
+  "duration": 26,
+  "assertions": [
+    {"kind":"appearsBy","selector":"#title-stage h1","bySec":0.8},
+    {"kind":"before","a":"#m1","b":"#m2"},
+    {"kind":"appearsBy","selector":"#m4","bySec":11.4},
+    {"kind":"appearsBy","selector":".cover","bySec":14.3},
+    {"kind":"staysInFrame","selector":".cover"}
+  ]
+}
